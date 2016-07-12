@@ -1,8 +1,8 @@
 # Speed up your Angular 2 applications development using:
 
-* Nested fields validation (cross component)
-* Vanilla JS clipboard copy / paste
-* On initialize expression
+* Nested form fields validation (cross component) `ready`
+* Vanilla JS clipboard copy / paste `ready`
+* On initialize expression `ready`
 * Upload component
 * Table helpers
 * Validation helpers
