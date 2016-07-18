@@ -17,5 +17,7 @@ repository: rzysztofBogdan/a2ui-site
 # Build settings
 markdown: kramdown
 
+highlighter: rouge
+
 collections:
   - mains
